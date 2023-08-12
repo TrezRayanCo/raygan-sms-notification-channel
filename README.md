@@ -29,7 +29,7 @@ This package makes it easy to send notifications using <a href="https://github.c
 </div>
 
 ```bash
-composer require trez/raygan-sms-notification-channel
+composer require trezrayan/raygan-sms-notification-channel
 ```
 <div dir="rtl" align="justify">
 توجه داشته باشید سرویس <a href="https://github.com/farhadmirzapour/RayganSms" target="_blank">RayganSms API</a>  به همراه این پکیج بصورت اتوماتیک بر روی پروژه شما نصب می شود.
