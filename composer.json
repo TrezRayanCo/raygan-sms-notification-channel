@@ -1,5 +1,5 @@
 {
-  "name": "trez/raygan-sms-notification-channel",
+  "name": "trezrayan/raygan-sms-notification-channel",
   "type": "library",
   "description": "Raygan SMS Channel for Laravel 5.3+",
   "keywords": [
